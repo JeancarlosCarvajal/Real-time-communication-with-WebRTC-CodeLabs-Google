@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+/* Best Practice  */
+video {
+  max-width: 100%;
+  width: 320px;
+}
+
+/* video borroso  */
+/* video {
+  filter: blur(4px) invert(1) opacity(1);
+} */
+
+/* Produce la impresion de infrarrojo  */
+/* video {
+  filter: hue-rotate(90deg) saturate(2000%);
+} */
